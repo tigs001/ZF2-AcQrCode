@@ -1,5 +1,8 @@
 ## ZF-AcQrCode
 
+Do NOT use this reposository.  I am just using it as part of an old project.  You should probably use the [Endroid QR Code](https://github.com/endroid/QrCode) library directly.
+
+
 [![Build Status](https://travis-ci.org/acelaya/ZF2-AcQrCode.svg?branch=develop)](https://travis-ci.org/acelaya/ZF2-AcQrCode)
 [![Code Coverage](https://scrutinizer-ci.com/g/acelaya/ZF2-AcQrCode/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/acelaya/ZF2-AcQrCode/?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/acelaya/ZF2-AcQrCode/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/acelaya/ZF2-AcQrCode/?branch=master)
