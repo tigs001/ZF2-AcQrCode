@@ -5,11 +5,11 @@ use Acelaya\QrCode\Service\QrCodeService;
 use Acelaya\QrCode\View\Helper\QrCodeHelper;
 use Interop\Container\ContainerInterface;
 use Interop\Container\Exception\ContainerException;
-use Zend\Router\RouteStackInterface;
-use Zend\ServiceManager\Exception\ServiceNotCreatedException;
-use Zend\ServiceManager\Exception\ServiceNotFoundException;
-use Zend\ServiceManager\Factory\FactoryInterface;
-use Zend\View\Renderer\PhpRenderer;
+use Laminas\Router\RouteStackInterface;
+use Laminas\ServiceManager\Exception\ServiceNotCreatedException;
+use Laminas\ServiceManager\Exception\ServiceNotFoundException;
+use Laminas\ServiceManager\Factory\FactoryInterface;
+use Laminas\View\Renderer\PhpRenderer;
 
 /**
  * Class QrCodeHelperFactory
